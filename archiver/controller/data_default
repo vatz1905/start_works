@@ -1,0 +1,2 @@
+task117<->eve218<->start<->{"Cmd":"meta","Path":"deck.gl-master.zip","Url":"","ArchiveType":"zip","FsPath":" ","OutputFolderId":"","ArchiveFileIds":""}
+task117<->eve217<->start<->{"Cmd":"extract","Path":"deck.gl-master.zip","Url":"","ArchiveType":"zip","FsPath":" ","OutputFolderId":"/home/tzion/go/archiver/testdata/extractedFiles","ArchiveFileIds":"1460,1462,1470"}
